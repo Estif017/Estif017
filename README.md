@@ -107,4 +107,3 @@ Welcome to my GitHub! I'm passionate about building robust applications with Jav
 
 I'm always excited to collaborate on interesting projects or discuss new opportunities. Feel free to reach out!
 
-⭐️ **Fun Fact:** When I'm not coding, you'll find me tracking Fantasy Premier League stats or crushing a HIIT workout! ⚽💪
